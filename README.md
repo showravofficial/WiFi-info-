@@ -1,4 +1,4 @@
-# wifissidfinder
+# Wi-Fi Info Finder
 
 #######The app will now:
 1. Show your currently connected WiFi network with:
